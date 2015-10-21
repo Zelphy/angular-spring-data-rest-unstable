@@ -1,6 +1,6 @@
 {
-  "name": "angular-spring-data-rest",
-  "version": "0.4.3",
+  "name": "angular-spring-data-rest-unstable",
+  "version": "0.4.4",
   "description": "An AngularJS module to ease the work with a Spring Data REST backend.",
   "keywords": [
     "AngularJS",
@@ -10,8 +10,8 @@
     "REST",
     "Spring Data REST"
   ],
-  "homepage": "http://guylabs.ch/project/angular-spring-data-rest",
-  "bugs": "https://github.com/guylabs/angular-spring-data-rest/issues",
+  "homepage": "http://guylabs.ch/project/angular-spring-data-rest-unstable",
+  "bugs": "https://github.com/guylabs/angular-spring-data-rest-unstable/issues",
   "author": {
     "name": "Guy Brand",
     "email": "admin@guylabs.org",
@@ -19,9 +19,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/guylabs/angular-spring-data-rest.git"
+    "url": "https://github.com/guylabs/angular-spring-data-rest-unstable.git"
   },
-  "main": "dist/angular-spring-data-rest.min.js",
+  "main": "dist/angular-spring-data-rest-unstable.min.js",
   "devDependencies": {
     "bower": "~1.3.12",
     "coveralls": "^2.11.2",
